@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6281f14d95e27de9cca67efc"
+  },
+  "timestamp": "9/3 - 10:48:32",
+  "nombre": "Parlante Pioneer 400w",
+  "descripcion": "Parlante para autos marca Pioneer",
+  "categoria": "Parlantes",
+  "thumbail": "https://sodimac.scene7.com/is/image/SodimacCL/5931657_01?wid=1500&hei=1500&qlt=70",
+  "precio": 75000,
+  "stock": 14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62828f157dd4fe215237e449"
+  },
+  "timestamp": "9/3 - 10:49:29",
+  "nombre": "Amplificador Pioneer 2400w",
+  "descripcion": "Amplificador para autos 12v",
+  "categoria": "Amplificadores",
+  "thumbail": "https://m.media-amazon.com/images/I/510OZoFBBUL._AC_SL1000_.jpg",
+  "precio": 350000,
+  "stock": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628290f77dd4fe215237e44a"
+  },
+  "timestamp": "10/3 - 15:48:36",
+  "nombre": "Subwoofer 12' Pioneer ",
+  "descripcion": "Subwoofer de auto Pioneer, 12' 1600W rms",
+  "categoria": "Subwoofer",
+  "thumbail": "https://m.media-amazon.com/images/I/714Vm+4yAyL._AC_SL1500_.jpg",
+  "precio": 120000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628292bb7dd4fe215237e44b"
+  },
+  "timestamp": "11/3 - 11:41:1",
+  "nombre": "Reproductor Pioneer Mixtrack",
+  "descripcion": "Reproductor para auto con mezclador de canciones",
+  "categoria": "Reproductores",
+  "thumbail": "https://12vpersonalcar.com/upload/img/periodico/img_2589.jpg",
+  "precio": 140000,
+  "stock": 15,
+  "__v": 0
+},{
+  "_id": {
+  "$oid": "628294617dd4fe215237e44c"
+},
+"timestamp": "10/3 - 15:48:36",
+"nombre": "tweeter alpine SPS110TW",
+"descripcion": "Tweeter para auto marca Alpine 110w",
+"categoria": "Tweeter",
+"thumbail": "https://m.media-amazon.com/images/I/61e2qCtr51L._AC_SL1500_.jpg",
+"precio": 50000,
+"stock": 34,
+"__v": 0
+}]

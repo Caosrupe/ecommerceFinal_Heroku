@@ -1,0 +1,29 @@
+[{"_id":
+    {"$oid":"6281d02d23b9f5deb1f4341d"},
+
+    "email":"caosrupe@gmail.com",
+    "password":"$2b$10$2YhkwUIKSW1niG5QzdVTN.FDkLY3vq.GnT4wupkS/7J0fmFkQmvxS",
+    "nombre":"Carlos",
+    "apellido":"Ruiz",
+    "telefono":"+56933982608",
+    "avatar":"72ef29d74fde4ba4806acafca102e59f.png",
+    "isAdmin":true,
+    "carrito":{"$oid":"6281d02d23b9f5deb1f43419"},
+    "chat":{"$oid":"6281d02d23b9f5deb1f4341b"},
+    "__v":{"$numberInt":"0"}
+},
+
+{"_id":
+    {"$oid":"6281d341658437095aa3f1b6"},
+    
+    "email":"corpinterna@gmail.com",
+    "password":"$2b$10$sPxXmruBIyurvF2eG8RR7O8Y7tB97BxHQqvYXD7lwwJ8tVXK4.7Rq",
+    "nombre":"Carlos",
+    "apellido":"Ruiz",
+    "telefono":"933982608",
+    "avatar":"c41b4fa4dcecc7574b4dbfde70b298b2.png",
+    "isAdmin":false,
+    "carrito":{"$oid":"6281d341658437095aa3f1b2"},
+    "chat":{"$oid":"6281d341658437095aa3f1b4"},
+    "__v":{"$numberInt":"0"}
+}]
