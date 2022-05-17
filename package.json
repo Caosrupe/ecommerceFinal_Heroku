@@ -1,7 +1,7 @@
 {
   "name": "backendfinal",
   "version": "1.0.0",
-  "description": "## Tecnologia #### Backend - NodeJS - Version 14.17.6 o superior  - express - Version 4.17.1 - express-session - Version 1.17.2 - passport - Version 0.5.2 - passport-local - Version 1.0.0 - bcrypt - Version 5.0.1 - mongoose - Version 6.0.12 - log4js - Version 6.3.0 - multer - Version 1.4.4 - socket.io - Version 4.4.1 - nodemailer - Version 6.7.2 - twilio - Version 3.73.0 - dotenv - Version 12.0.3",
+  "description": "API RESTFULL que proporciona el Backend de un E-commerce",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
